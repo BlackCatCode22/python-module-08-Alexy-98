@@ -1,0 +1,11 @@
+#If you'd rather stay inside Python, use the os module to run commands:
+#Go to the termianl in Python and type:
+
+cd ..
+cd Assignments
+cd "Module 8"
+streamlit run chat_bot_demo_code_ALT.py
+
+#Save file as run_streamlit.bat
+#Choose all files in the Save as type, not .txt
+#Whenever I want to start the app, double click run_streamlit.bat
